@@ -9,7 +9,7 @@
  * isArrayLengthOdd([1, 2, 3, 4]) -> flase
  */
 function isArrayLengthOdd(numbers) {
-  // Your code here
+  // Your code here ...
   if (numbers.length % 2 === 0) return false;
   else return true;
 }
